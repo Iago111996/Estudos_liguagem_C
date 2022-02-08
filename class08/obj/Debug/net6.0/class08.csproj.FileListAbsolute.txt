@@ -1,0 +1,15 @@
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/class08
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/class08.deps.json
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/class08.runtimeconfig.json
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/class08.dll
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/ref/class08.dll
+/Users/iago/Desktop/iago/estudos/c#/class08/bin/Debug/net6.0/class08.pdb
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.csproj.AssemblyReference.cache
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.AssemblyInfoInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.AssemblyInfo.cs
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.csproj.CoreCompileInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.dll
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/ref/class08.dll
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.pdb
+/Users/iago/Desktop/iago/estudos/c#/class08/obj/Debug/net6.0/class08.genruntimeconfig.cache
