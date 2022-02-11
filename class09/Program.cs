@@ -20,7 +20,7 @@ namespace class09
       vetor[3] = 444;
       vetor[4] = 555;
 
-      System.Console.WriteLine(vetor2[0]);
+      System.Console.WriteLine(vetor2[1]);
     }
   }
 }
