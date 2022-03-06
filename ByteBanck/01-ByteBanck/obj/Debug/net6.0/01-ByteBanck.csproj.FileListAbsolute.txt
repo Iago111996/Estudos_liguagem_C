@@ -1,0 +1,15 @@
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.csproj.AssemblyReference.cache
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.AssemblyInfoInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.AssemblyInfo.cs
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.csproj.CoreCompileInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/01-ByteBanck
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/01-ByteBanck.deps.json
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/01-ByteBanck.runtimeconfig.json
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/01-ByteBanck.dll
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/ref/01-ByteBanck.dll
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/bin/Debug/net6.0/01-ByteBanck.pdb
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.dll
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/ref/01-ByteBanck.dll
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.pdb
+/Users/iago/Desktop/iago/estudos/c#/ByteBanck/01-ByteBanck/obj/Debug/net6.0/01-ByteBanck.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/Fundamentos
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/Fundamentos.deps.json
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/Fundamentos.runtimeconfig.json
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/Fundamentos.dll
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/ref/Fundamentos.dll
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/bin/Debug/net6.0/Fundamentos.pdb
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.AssemblyReference.cache
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfoInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.AssemblyInfo.cs
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.csproj.CoreCompileInputs.cache
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.dll
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/ref/Fundamentos.dll
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.pdb
+/Users/iago/Desktop/iago/estudos/c#/class-balt/Fundamentos/obj/Debug/net6.0/Fundamentos.genruntimeconfig.cache
